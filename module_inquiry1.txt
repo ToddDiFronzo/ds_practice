@@ -1,0 +1,52 @@
+Questions:
+
+1. What questions did you ask your stakeholder that helped in breaking down your tasks?
+
+	Answer:
+		a. Are neighborhoods out of the scope of the project?
+		b. Are restaurants, public transportation, shopping out of scope?
+		c. What are the top 5 most important criteria in the app?
+		d. What demographic is this application for (young/old)
+		e. What are the differentiatiating factors of this app?
+    			(how do you want to position yourself relative to the market, will it 
+			 be a community app with commenting?)
+
+2. Describe how the given product roadmap has helped you develop a few user stories. List them below.
+	(This is your notion doc in the product page. The roadmap=the release schedule)
+	
+	Answer:
+		The product roadmap helped develop some user stories because I was given an idea
+		of what we are trying to accomplish. The mission and persona/user stories helped
+		give the idea of what a person is looking for by using this app. It gave a broad
+		understanding of what we need to accomplish.
+
+3. Select your favorite user story. 
+
+	Answer: As a data scientist, I will review existing datasets
+
+	a. What are the tasks that need to be accomplished in order to ship that 
+		particular user story?
+		- Need to review each dataset separately
+		- Gain insight and ideas for new datasets or how to improve current dataset
+
+	b. What did you do well in this task breakdown process
+		- I think this was fairly straightforward and in the product roadmap
+
+	c. What were some challenges
+		- trying to get signed into Trello after thinking I was already (lol)
+
+4. After what you've learned in this process, given a new product roadmap, 
+        a. How would you approach it differently?
+		- i would be more systematic and methodical based on how we input the user story
+
+	b. What would you change about the way you go about breaking down individual tasks?
+		- be less general, more specific for each task
+
+
+
+
+
+
+
+
+
