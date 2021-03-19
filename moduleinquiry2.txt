@@ -1,0 +1,25 @@
+Module Inquiry 2
+
+1. What technical choices did you make today?
+	All of the technical choices were already made. We are using Heroku and many APIs for our data that have already been
+	completed
+
+2. Pick two technical choices you're happy with. What was your thought process as you made those choices? What did you consider and what did you decide against?
+	a. Using Heroku
+	b. Current APIs
+	c. Technically, nothing since this was already done. However, I was hoping to use FastAPI instead of Heroku
+
+	- Take a moment to think about the advantages in choosing the route that you did.
+		Much quicker to build on what is already done and working
+
+	- Now take a moment to consider the disadvantages.
+		Sometimes what is already in place is not exactly what you want or what you wanted to do
+
+3. In one or two sentences, summarize why you ultimately made the choice you did.
+	- The choice that was ultimately made was already made so I chose to follow that route.
+
+4. Extracting useful conclusions from your process:
+	- According to your understanding, what makes a good technical choice?
+
+	What makes a good technical choice is one that solves the current problem, can be completed in the necessary time frame,
+	and all team members are on board with the decision. If not, then perhaps a new direction or a compromise is in order.
