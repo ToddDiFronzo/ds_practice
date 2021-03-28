@@ -1,0 +1,17 @@
+Module Inquiry 3
+
+1. Link to the pull request you are most proud of:
+	I havent done any PRs yet. I have reviewed several. Still working on finding datasets/rankings. Looks like web scraping
+		is the only way to go based on my results.
+
+2. Why are you proud of this feature? NA
+   What was difficult about its implemenation? NA
+
+3. How does this feature help the user?
+	Once I have the schools and rankings done, it will help the user evaulate what location they would like to move to based on
+		schooling ranks, along with other criteria
+
+4. Think about the process of delivering this feature: from ideation, to scoping, to pairing, to testing. Knowing what you know now, what
+	would you change about the way in which you delivered this feature?
+
+	Hard to say at the moment since I havent implemented this yet.
